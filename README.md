@@ -1,4 +1,4 @@
-# Consumer-Goods-Ad-Hoc-Insights
+# Consumer-Goods-Ad-Hoc-Insights-SQL
 # Provide Insights to Management in Consumer Goods Domain
 ## Domain:  Consumer Goods | Function: Executive Management
 ### Objective:
